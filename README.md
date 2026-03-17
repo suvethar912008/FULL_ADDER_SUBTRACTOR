@@ -48,7 +48,7 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
-
+![Output](hfa.png)
 **Output Timing Waveform**
 
 **Result:**
