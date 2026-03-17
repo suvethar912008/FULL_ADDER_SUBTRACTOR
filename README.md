@@ -78,6 +78,9 @@ FULL ADDER:
 ![Output](hfa1.png)
 
 FULL SUBRACTOR:
+
+![Output](hfs1.png)
+
 **Result:**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
