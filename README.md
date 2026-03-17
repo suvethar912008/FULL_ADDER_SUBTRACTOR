@@ -43,6 +43,8 @@ Borrow out = A'Bin + A'B + BBin
 Write the detailed procedure here
 
 **Program:**
+```
+FULL ADDER:
 module exp_3a(A,B,C,sum,carry);
 input A,B,C;
 output sum,carry;
@@ -57,12 +59,16 @@ output dif,bor;
 assign dif=A^B^C;
 assign bor=(~A&C)|(~A&B)|(B&C);
 endmodule
-
+```
 **RTL Schematic**
+FULL ADDER:
 ![Output](hfa.png)
+FULL SUBRACTOR:
 ![Output](hfs2.png)
 **Output Timing Waveform**
-
+FULL ADDER:
+![Output](hfa1.png)
+FULL SUBRACTOR:
 **Result:**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
