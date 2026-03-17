@@ -60,14 +60,23 @@ assign dif=A^B^C;
 assign bor=(~A&C)|(~A&B)|(B&C);
 endmodule
 ```
+
+
 **RTL Schematic** 
 FULL ADDER:
+
 ![Output](hfa.png)
+
 FULL SUBRACTOR:
+
 ![Output](hfs2.png)
+
 **Output Timing Waveform**
+
 FULL ADDER:
+
 ![Output](hfa1.png)
+
 FULL SUBRACTOR:
 **Result:**
 
