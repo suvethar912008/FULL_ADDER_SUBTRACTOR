@@ -63,6 +63,7 @@ endmodule
 
 
 **RTL Schematic** 
+
 FULL ADDER:
 
 ![Output](hfa.png)
